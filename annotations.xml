@@ -48,11 +48,17 @@
     <Label name="hydra_documentation" />
     <AdditionalData attribute="original_url" value="http://hudson.projecthydra.org/job/*/Documentation/" />
   </Annotation>
-  <Annotation about="jira.projecthydra.org/*" score="1" timestamp="0x0004b63065dc9289" href="ChdqaXJhLnByb2plY3RoeWRyYS5vcmcvKhCJpfKuhsatAg">
+
+  <Annotation about="https://jira.duraspace.org/browse/HYDRA*">
     <Label name="_cse_hdbvpqed8pa" />
     <Label name="hydra_documentation" />
-    <AdditionalData attribute="original_url" value="jira.projecthydra.org" />
   </Annotation>
+
+  <Annotation about="https://jira.duraspace.org/browse/HY*" score="-0.1">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="partner_documentation" />
+  </Annotation>
+
   <Annotation about="groups.google.com/group/hydra-tech/*" score="1" timestamp="0x0004b630633bf733" href="CiRncm91cHMuZ29vZ2xlLmNvbS9ncm91cC9oeWRyYS10ZWNoLyoQs-7vmYbGrQI">
     <Label name="_cse_hdbvpqed8pa" />
     <Label name="hydra_documentation" />

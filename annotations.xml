@@ -1,77 +1,94 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Annotations start="0" num="9" total="9">
-  <Annotation about="wiki.apache.org/solr/*" score="-0.3" timestamp="0x0004b63070449713" href="ChZ3aWtpLmFwYWNoZS5vcmcvc29sci8qEJOukoKHxq0C">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="partner_documentation" />
-    <AdditionalData attribute="original_url" value="wiki.apache.org/solr/" />
-  </Annotation>
-  <Annotation about="wiki.duraspace.org/display/FEDORA35*" score="-0.3" timestamp="0x0004b6306fdb1730" href="CiR3aWtpLmR1cmFzcGFjZS5vcmcvZGlzcGxheS9GRURPUkEzNSoQsK7s_obGrQI">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="partner_documentation" />
-    <AdditionalData attribute="original_url" value="https://wiki.duraspace.org/display/FEDORA35" />
-  </Annotation>
-
-  <Annotation about="github.com/mediashelf*" timestamp="0x0004b6306f058e71" href="ChZnaXRodWIuY29tL21lZGlhc2hlbGYqEPGclviGxq0C">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="partner_documentation" />
-    <AdditionalData attribute="original_url" value="github.com/mediashelf" />
-  </Annotation>
-  <Annotation about="github.com/mediashelf/*/wiki*" score="1">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="partner_documentation" />
-  </Annotation>
-
-
-  <Annotation about="github.com/projectblacklight*">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="partner_documentation" />
-  </Annotation>
-
-  <Annotation about="github.com/projectblacklight/blacklight/wiki*" score="1">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="partner_documentation" />
-    <Label name="hydra_documentation" />
-  </Annotation>
-
-  <Annotation about="github.com/projecthydra/*">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="hydra_documentation" />
-  </Annotation>
-
-  <Annotation about="github.com/projecthydra/*/wiki/*" score="1">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="hydra_documentation" />
-  </Annotation>
-
-  <Annotation about="hudson.projecthydra.org/job/*/Documentation/" score="1" timestamp="0x0004b6306d56cd75" href="CixodWRzb24ucHJvamVjdGh5ZHJhLm9yZy9qb2IvKi9Eb2N1bWVudGF0aW9uLxD1mtvqhsatAg">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="hydra_documentation" />
-    <AdditionalData attribute="original_url" value="http://hudson.projecthydra.org/job/*/Documentation/" />
-  </Annotation>
-
-  <Annotation about="https://jira.duraspace.org/browse/HYDRA*">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="hydra_documentation" />
-  </Annotation>
-
-  <Annotation about="https://jira.duraspace.org/browse/HY*" score="-0.1">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="partner_documentation" />
-  </Annotation>
-
-  <Annotation about="groups.google.com/group/hydra-tech/*" score="1" timestamp="0x0004b630633bf733" href="CiRncm91cHMuZ29vZ2xlLmNvbS9ncm91cC9oeWRyYS10ZWNoLyoQs-7vmYbGrQI">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="hydra_documentation" />
-    <AdditionalData attribute="original_url" value="groups.google.com/group/hydra-tech/*" />
-  </Annotation>
-  <Annotation about="wiki.duraspace.org/display/hydra/*" score="1" timestamp="0x0004b630633bf725" href="CiJ3aWtpLmR1cmFzcGFjZS5vcmcvZGlzcGxheS9oeWRyYS8qEKXu75mGxq0C">
-    <Label name="_cse_hdbvpqed8pa" />
-    <Label name="hydra_documentation" />
-    <AdditionalData attribute="original_url" value="wiki.duraspace.org/display/hydra/*" />
-  </Annotation>
-  <Annotation about="*.projecthydra.org/*" score="1" timestamp="0x0004b630633bf712" href="ChQqLnByb2plY3RoeWRyYS5vcmcvKhCS7u-ZhsatAg">
+<Annotations start="0" num="15" total="15">
+  <Annotation about="*.projecthydra.org/*" score="1" timestamp="0x0004b632cbdf8f84" href="ChQqLnByb2plY3RoeWRyYS5vcmcvKhCEn_7erMatAg">
     <Label name="_cse_hdbvpqed8pa" />
     <Label name="hydra_documentation" />
     <AdditionalData attribute="original_url" value="projecthydra.org/*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="irc.projecthydra.org/*" score="0.5">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="hydra_documentation" />
+    <AdditionalData attribute="original_url" value="irc.projecthydra.org/*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="wiki.duraspace.org/display/hydra/*" score="1" timestamp="0x0004b632cbdf8f73" href="CiJ3aWtpLmR1cmFzcGFjZS5vcmcvZGlzcGxheS9oeWRyYS8qEPOe_t6sxq0C">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="hydra_documentation" />
+    <AdditionalData attribute="original_url" value="wiki.duraspace.org/display/hydra/*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="groups.google.com/group/hydra-tech/*" score="1" timestamp="0x0004b632cbdf8f62" href="CiRncm91cHMuZ29vZ2xlLmNvbS9ncm91cC9oeWRyYS10ZWNoLyoQ4p7-3qzGrQI">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="hydra_documentation" />
+    <AdditionalData attribute="original_url" value="groups.google.com/group/hydra-tech/*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="jira.duraspace.org/browse/HY*" score="-0.1" timestamp="0x0004b632cbdf8f51" href="Ch1qaXJhLmR1cmFzcGFjZS5vcmcvYnJvd3NlL0hZKhDRnv7erMatAg">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="partner_documentation" />
+    <AdditionalData attribute="original_url" value="https://jira.duraspace.org/browse/HY*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="jira.duraspace.org/browse/HYDRA*" timestamp="0x0004b632cbdf8f40" href="CiBqaXJhLmR1cmFzcGFjZS5vcmcvYnJvd3NlL0hZRFJBKhDAnv7erMatAg">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="hydra_documentation" />
+    <AdditionalData attribute="original_url" value="https://jira.duraspace.org/browse/HYDRA*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="hudson.projecthydra.org/job/*/Documentation/" score="1" timestamp="0x0004b632cbdf8f2f" href="CixodWRzb24ucHJvamVjdGh5ZHJhLm9yZy9qb2IvKi9Eb2N1bWVudGF0aW9uLxCvnv7erMatAg">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="hydra_documentation" />
+    <AdditionalData attribute="original_url" value="http://hudson.projecthydra.org/job/*/Documentation/" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="github.com/projecthydra/*/wiki/*" score="1" timestamp="0x0004b632cbdf8f1d" href="CiBnaXRodWIuY29tL3Byb2plY3RoeWRyYS8qL3dpa2kvKhCdnv7erMatAg">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="hydra_documentation" />
+    <AdditionalData attribute="original_url" value="github.com/projecthydra/*/wiki/*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="github.com/projecthydra/*" timestamp="0x0004b632cbdf8f0d" href="ChlnaXRodWIuY29tL3Byb2plY3RoeWRyYS8qEI2e_t6sxq0C">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="hydra_documentation" />
+    <AdditionalData attribute="original_url" value="github.com/projecthydra/*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="github.com/projectblacklight/blacklight/wiki*" score="1" timestamp="0x0004b632cbdf8efb" href="Ci1naXRodWIuY29tL3Byb2plY3RibGFja2xpZ2h0L2JsYWNrbGlnaHQvd2lraSoQ-53-3qzGrQI">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="partner_documentation" />
+    <Label name="hydra_documentation" />
+    <AdditionalData attribute="original_url" value="github.com/projectblacklight/blacklight/wiki*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="github.com/projectblacklight*" timestamp="0x0004b632cbdf8edd" href="Ch1naXRodWIuY29tL3Byb2plY3RibGFja2xpZ2h0KhDdnf7erMatAg">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="partner_documentation" />
+    <AdditionalData attribute="original_url" value="github.com/projectblacklight*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="github.com/mediashelf/*/wiki*" score="1" timestamp="0x0004b632cbdf8ecc" href="Ch1naXRodWIuY29tL21lZGlhc2hlbGYvKi93aWtpKhDMnf7erMatAg">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="partner_documentation" />
+    <AdditionalData attribute="original_url" value="github.com/mediashelf/*/wiki*" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="github.com/mediashelf*" timestamp="0x0004b632cbdf8eba" href="ChZnaXRodWIuY29tL21lZGlhc2hlbGYqELqd_t6sxq0C">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="partner_documentation" />
+    <AdditionalData attribute="original_url" value="github.com/mediashelf" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="wiki.duraspace.org/display/FEDORA35*" score="-0.3" timestamp="0x0004b632cbdf8ea8" href="CiR3aWtpLmR1cmFzcGFjZS5vcmcvZGlzcGxheS9GRURPUkEzNSoQqJ3-3qzGrQI">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="partner_documentation" />
+    <AdditionalData attribute="original_url" value="https://wiki.duraspace.org/display/FEDORA35" />
+    <AdditionalData attribute="file" value="annotations.xml" />
+  </Annotation>
+  <Annotation about="wiki.apache.org/solr/*" score="-0.3" timestamp="0x0004b632cbdf8e8e" href="ChZ3aWtpLmFwYWNoZS5vcmcvc29sci8qEI6d_t6sxq0C">
+    <Label name="_cse_hdbvpqed8pa" />
+    <Label name="partner_documentation" />
+    <AdditionalData attribute="original_url" value="wiki.apache.org/solr/" />
+    <AdditionalData attribute="file" value="annotations.xml" />
   </Annotation>
 </Annotations>
